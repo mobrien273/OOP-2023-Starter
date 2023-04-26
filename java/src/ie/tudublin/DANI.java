@@ -45,10 +45,15 @@ public class DANI extends PApplet {
 
 class Follow extends DANI
 {
+	public Follow (String word, int count)
+	{
+		
+	}
+
 
 }
 
 class Word extends DANI
 {
-	
+
 } 
