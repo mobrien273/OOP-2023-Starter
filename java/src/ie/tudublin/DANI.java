@@ -42,3 +42,8 @@ public class DANI extends PApplet {
         
 	}
 }
+
+class Follow extends DANI
+{
+	
+}
