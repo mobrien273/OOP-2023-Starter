@@ -47,7 +47,7 @@ class Follow extends DANI
 {
 	public Follow (String word, int count)
 	{
-		
+
 	}
 
 
@@ -55,5 +55,8 @@ class Follow extends DANI
 
 class Word extends DANI
 {
+	public Word (String word)
+	{
 
+	}
 } 
